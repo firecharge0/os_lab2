@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/fork_intro.dir/src/main.c.o -o fork_intro 
